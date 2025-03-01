@@ -1,0 +1,12 @@
+{
+  "name": "lkt-icons",
+  "version": "1.0.0",
+  "description": "Official LKT Icons",
+  "main": "src/css/lkt-icons.css",
+  "files": [
+    "src/*"
+  ],
+  "author": {
+    "name": "Antonio Ibáñez"
+  }
+}

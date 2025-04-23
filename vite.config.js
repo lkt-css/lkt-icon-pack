@@ -16,8 +16,9 @@ export default {
     },
     build: {
         target: 'es6',
+        cssCodeSplit: true,
         lib: {
-            entry: `${src}/index.ts`,
+            entry: `${src}/index.css`,
             name: 'LktIconPack',
             fileName: 'build',
             formats: ['es']
@@ -25,28 +26,12 @@ export default {
         outDir,
         minify: true,
         rollupOptions: {
-            external: [
-                'vue',
-                'vue-router',
-                'lkt-field',
-                'lkt-button',
-                'lkt-string-tools',
-                'lkt-http',
-                'lkt-http-client',
-                'lkt-vue-kernel',
-                'lkt-i18n',
-                'lkt-session'
-            ],
+            external: [],
             output: {
-                globals: {
-                    vue: 'Vue',
-                    "vue-router": 'VueRouter',
-                    "lkt-string-tools": 'LktStringTools',
-                    "lkt-http": 'LktHttp',
-                    "lkt-i18n": 'LktI18n',
-                    "lkt-session": 'LktSession',
-                },
-                sourcemapExcludeSources: true
+                sourcemapExcludeSources: true,
+                manualChunks: {
+                    'core': [`${src}/core/css/lkt-icons.css`]
+                }
             }
         }
     },

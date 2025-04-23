@@ -3,18 +3,14 @@
   "version": "0.0.1",
   "description": "Official LKT Icons",
   "type": "module",
-  "module": "./dist/index.js",
+  "module": "./dist/core.css",
   "exports": {
     ".": {
-      "import": "./dist/build.js"
+      "import": "./dist/core.css"
     },
-    "./styles": "./dist/build.css"
+    "./core": "./dist/core.css"
   },
-  "types": "./dist/index.d.ts",
-  "files": [
-    "dist/*",
-    "theme/**/*.css"
-  ],
+  "files": ["dist/*"],
   "license": "MIT",
   "sideEffects": false,
   "scripts": {

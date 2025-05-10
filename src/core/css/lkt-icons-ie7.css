@@ -24,7 +24,7 @@
 .lkt-icn-asterisk { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80b;&nbsp;'); }
 .lkt-icn-attention { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80c;&nbsp;'); }
 .lkt-icn-bar-chart { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80d;&nbsp;'); }
-.lkt-icn-british-pound { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80e;&nbsp;'); }
+.lkt-icn-calendar-outline-sm { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80e;&nbsp;'); }
 .lkt-icn-calendar { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80f;&nbsp;'); }
 .lkt-icn-cancel { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe810;&nbsp;'); }
 .lkt-icn-check { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe811;&nbsp;'); }
@@ -40,6 +40,7 @@
 .lkt-icn-dollar { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81b;&nbsp;'); }
 .lkt-icn-download { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81c;&nbsp;'); }
 .lkt-icn-drag-indicator { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81d;&nbsp;'); }
+.lkt-icn-british-pound { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81e;&nbsp;'); }
 .lkt-icn-edit { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81f;&nbsp;'); }
 .lkt-icn-ellipsis-menu-horizontal { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe820;&nbsp;'); }
 .lkt-icn-ellipsis-menu-vertical { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe821;&nbsp;'); }
@@ -149,6 +150,20 @@
 .lkt-icn-angle-double-top { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8b3;&nbsp;'); }
 .lkt-icn-less-circled { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8b4;&nbsp;'); }
 .lkt-icn-upload { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8b5;&nbsp;'); }
+.lkt-icn-lock { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8bb;&nbsp;'); }
+.lkt-icn-lock-open { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8bc;&nbsp;'); }
+.lkt-icn-lkt { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8bd;&nbsp;'); }
+.lkt-icn-tabs { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8be;&nbsp;'); }
+.lkt-icn-0 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8bf;&nbsp;'); }
+.lkt-icn-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c0;&nbsp;'); }
+.lkt-icn-2 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c1;&nbsp;'); }
+.lkt-icn-3 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c2;&nbsp;'); }
+.lkt-icn-4 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c3;&nbsp;'); }
+.lkt-icn-5 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c4;&nbsp;'); }
+.lkt-icn-6 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c5;&nbsp;'); }
+.lkt-icn-7 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c6;&nbsp;'); }
+.lkt-icn-8 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c7;&nbsp;'); }
+.lkt-icn-9 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c8;&nbsp;'); }
 .lkt-icn-accordion { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe948;&nbsp;'); }
 .lkt-icn-accordions { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe949;&nbsp;'); }
 .lkt-icn-align-center { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94a;&nbsp;'); }
@@ -177,8 +192,6 @@
 .lkt-icn-list { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe961;&nbsp;'); }
 .lkt-icn-list-bullet { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe962;&nbsp;'); }
 .lkt-icn-list-numbered { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe963;&nbsp;'); }
-.lkt-icn-lock { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe964;&nbsp;'); }
-.lkt-icn-lock-open { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe965;&nbsp;'); }
 .lkt-icn-lock-open-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe966;&nbsp;'); }
 .lkt-icn-lock-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe967;&nbsp;'); }
 .lkt-icn-paragraph { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe968;&nbsp;'); }
@@ -196,4 +209,3 @@
 .lkt-icn-vimeo { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe974;&nbsp;'); }
 .lkt-icn-webpage { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe975;&nbsp;'); }
 .lkt-icn-youtube-play { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe976;&nbsp;'); }
-.lkt-icn-calendar-outline-sm { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe86c2;&nbsp;'); }

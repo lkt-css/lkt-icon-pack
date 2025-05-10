@@ -153,6 +153,10 @@
 .lkt-icn-7 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c6;&nbsp;'); }
 .lkt-icn-8 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c7;&nbsp;'); }
 .lkt-icn-9 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c8;&nbsp;'); }
+.lkt-icn-balance { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8c9;&nbsp;'); }
+.lkt-icn-balance-left { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8ca;&nbsp;'); }
+.lkt-icn-balance-right { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8cb;&nbsp;'); }
+.lkt-icn-cross-arrows { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe8cc;&nbsp;'); }
 .lkt-icn-accordion { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe948;&nbsp;'); }
 .lkt-icn-accordions { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe949;&nbsp;'); }
 .lkt-icn-align-center { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94a;&nbsp;'); }

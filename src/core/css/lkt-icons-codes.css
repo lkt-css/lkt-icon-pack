@@ -153,6 +153,10 @@
 .lkt-icn-7:before { content: '\e8c6'; } /* '' */
 .lkt-icn-8:before { content: '\e8c7'; } /* '' */
 .lkt-icn-9:before { content: '\e8c8'; } /* '' */
+.lkt-icn-balance:before { content: '\e8c9'; } /* '' */
+.lkt-icn-balance-left:before { content: '\e8ca'; } /* '' */
+.lkt-icn-balance-right:before { content: '\e8cb'; } /* '' */
+.lkt-icn-cross-arrows:before { content: '\e8cc'; } /* '' */
 .lkt-icn-accordion:before { content: '\e948'; } /* '' */
 .lkt-icn-accordions:before { content: '\e949'; } /* '' */
 .lkt-icn-align-center:before { content: '\e94a'; } /* '' */

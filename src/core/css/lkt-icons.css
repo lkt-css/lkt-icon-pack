@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'lkt-icons';
-  src: url('../font/lkt-icons.eot?77752572');
-  src: url('../font/lkt-icons.eot?77752572#iefix') format('embedded-opentype'),
-       url('../font/lkt-icons.woff2?77752572') format('woff2'),
-       url('../font/lkt-icons.woff?77752572') format('woff'),
-       url('../font/lkt-icons.ttf?77752572') format('truetype'),
-       url('../font/lkt-icons.svg?77752572#lkt-icons') format('svg');
+  src: url('../font/lkt-icons.eot?83816503');
+  src: url('../font/lkt-icons.eot?83816503#iefix') format('embedded-opentype'),
+       url('../font/lkt-icons.woff2?83816503') format('woff2'),
+       url('../font/lkt-icons.woff?83816503') format('woff'),
+       url('../font/lkt-icons.ttf?83816503') format('truetype'),
+       url('../font/lkt-icons.svg?83816503#lkt-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'lkt-icons';
-    src: url('../font/lkt-icons.svg?77752572#lkt-icons') format('svg');
+    src: url('../font/lkt-icons.svg?83816503#lkt-icons') format('svg');
   }
 }
 */
@@ -257,3 +257,31 @@
 .lkt-icn-vimeo:before { content: '\e974'; } /* '' */
 .lkt-icn-webpage:before { content: '\e975'; } /* '' */
 .lkt-icn-youtube-play:before { content: '\e976'; } /* '' */
+.lkt-icn-percentage:before { content: '\e996'; } /* '' */
+.lkt-icn-incognito-user:before { content: '\e997'; } /* '' */
+.lkt-icn-add:before { content: '\e999'; } /* '' */
+.lkt-icn-building:before { content: '\e99a'; } /* '' */
+.lkt-icn-building-outline:before { content: '\e99b'; } /* '' */
+.lkt-icn-home:before { content: '\e99c'; } /* '' */
+.lkt-icn-hourglass-finished:before { content: '\e99e'; } /* '' */
+.lkt-icn-hourglass:before { content: '\e99f'; } /* '' */
+.lkt-icn-hourglass-started:before { content: '\e9a0'; } /* '' */
+.lkt-icn-wifi:before { content: '\e9a1'; } /* '' */
+.lkt-icn-battery-0:before { content: '\e9a2'; } /* '' */
+.lkt-icn-battery-25:before { content: '\e9a3'; } /* '' */
+.lkt-icn-battery-50:before { content: '\e9a4'; } /* '' */
+.lkt-icn-battery-75:before { content: '\e9a5'; } /* '' */
+.lkt-icn-battery-100:before { content: '\e9a6'; } /* '' */
+.lkt-icn-battery-charging:before { content: '\e9a7'; } /* '' */
+.lkt-icn-cloud:before { content: '\e9a8'; } /* '' */
+.lkt-icn-cloudy:before { content: '\e9a9'; } /* '' */
+.lkt-icn-fog:before { content: '\e9aa'; } /* '' */
+.lkt-icn-hail:before { content: '\e9ac'; } /* '' */
+.lkt-icn-rain:before { content: '\e9ad'; } /* '' */
+.lkt-icn-snow:before { content: '\e9ae'; } /* '' */
+.lkt-icn-storm:before { content: '\e9af'; } /* '' */
+.lkt-icn-sunny:before { content: '\e9b0'; } /* '' */
+.lkt-icn-thunderstorm:before { content: '\e9b2'; } /* '' */
+.lkt-icn-tornado:before { content: '\e9b4'; } /* '' */
+.lkt-icn-tsunami:before { content: '\e9b5'; } /* '' */
+.lkt-icn-windy:before { content: '\e9b6'; } /* '' */

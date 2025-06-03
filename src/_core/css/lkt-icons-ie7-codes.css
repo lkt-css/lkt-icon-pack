@@ -1,14 +1,3 @@
-[class^="lkt-icn-"], [class*=" lkt-icn-"] {
-  font-family: 'lkt-icons';
-  font-style: normal;
-  font-weight: normal;
-
-  /* fix buttons height */
-  line-height: 1em;
-
-  /* you can be more comfortable with increased icons size */
-  /* font-size: 120%; */
-}
 
 .lkt-icn-add-circled { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
 .lkt-icn-angle-bottom { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe801;&nbsp;'); }
@@ -241,4 +230,3 @@
 .lkt-icn-tornado { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b4;&nbsp;'); }
 .lkt-icn-tsunami { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b5;&nbsp;'); }
 .lkt-icn-windy { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b6;&nbsp;'); }
-.lkt-icn-vertical-organization-chart { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ce;&nbsp;'); }

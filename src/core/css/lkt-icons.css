@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'lkt-icons';
-  src: url('../font/lkt-icons.eot?83816503');
-  src: url('../font/lkt-icons.eot?83816503#iefix') format('embedded-opentype'),
-       url('../font/lkt-icons.woff2?83816503') format('woff2'),
-       url('../font/lkt-icons.woff?83816503') format('woff'),
-       url('../font/lkt-icons.ttf?83816503') format('truetype'),
-       url('../font/lkt-icons.svg?83816503#lkt-icons') format('svg');
+  src: url('../font/lkt-icons.eot?42016909');
+  src: url('../font/lkt-icons.eot?42016909#iefix') format('embedded-opentype'),
+       url('../font/lkt-icons.woff2?42016909') format('woff2'),
+       url('../font/lkt-icons.woff?42016909') format('woff'),
+       url('../font/lkt-icons.ttf?42016909') format('truetype'),
+       url('../font/lkt-icons.svg?42016909#lkt-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'lkt-icons';
-    src: url('../font/lkt-icons.svg?83816503#lkt-icons') format('svg');
+    src: url('../font/lkt-icons.svg?42016909#lkt-icons') format('svg');
   }
 }
 */
@@ -285,3 +285,4 @@
 .lkt-icn-tornado:before { content: '\e9b4'; } /* '' */
 .lkt-icn-tsunami:before { content: '\e9b5'; } /* '' */
 .lkt-icn-windy:before { content: '\e9b6'; } /* '' */
+.lkt-icn-vertical-organization-chart:before { content: '\e9ce'; } /* '' */

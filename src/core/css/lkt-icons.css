@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'lkt-icons';
-  src: url('../font/lkt-icons.eot?78697803');
-  src: url('../font/lkt-icons.eot?78697803#iefix') format('embedded-opentype'),
-       url('../font/lkt-icons.woff2?78697803') format('woff2'),
-       url('../font/lkt-icons.woff?78697803') format('woff'),
-       url('../font/lkt-icons.ttf?78697803') format('truetype'),
-       url('../font/lkt-icons.svg?78697803#lkt-icons') format('svg');
+  src: url('../font/lkt-icons.eot?75343969');
+  src: url('../font/lkt-icons.eot?75343969#iefix') format('embedded-opentype'),
+       url('../font/lkt-icons.woff2?75343969') format('woff2'),
+       url('../font/lkt-icons.woff?75343969') format('woff'),
+       url('../font/lkt-icons.ttf?75343969') format('truetype'),
+       url('../font/lkt-icons.svg?75343969#lkt-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'lkt-icons';
-    src: url('../font/lkt-icons.svg?78697803#lkt-icons') format('svg');
+    src: url('../font/lkt-icons.svg?75343969#lkt-icons') format('svg');
   }
 }
 */
@@ -317,3 +317,31 @@
 .lkt-icn-water-drop:before { content: '\e9f1'; } /* '' */
 .lkt-icn-windmill:before { content: '\e9f2'; } /* '' */
 .lkt-icn-windmill-spinning:before { content: '\e9f3'; } /* '' */
+.lkt-icn-anger-face:before { content: '\e9f4'; } /* '' */
+.lkt-icn-asleep-face:before { content: '\e9f5'; } /* '' */
+.lkt-icn-cheerful-face:before { content: '\e9f6'; } /* '' */
+.lkt-icn-crying-face:before { content: '\e9f7'; } /* '' */
+.lkt-icn-discomfort-face:before { content: '\e9f8'; } /* '' */
+.lkt-icn-flirtatious-smile-face:before { content: '\e9f9'; } /* '' */
+.lkt-icn-happy-face:before { content: '\e9fa'; } /* '' */
+.lkt-icn-irritation-face:before { content: '\e9fb'; } /* '' */
+.lkt-icn-neutral-face:before { content: '\e9fc'; } /* '' */
+.lkt-icn-sad-face:before { content: '\e9fd'; } /* '' */
+.lkt-icn-sleepy-face:before { content: '\e9fe'; } /* '' */
+.lkt-icn-very-happy-face:before { content: '\e9ff'; } /* '' */
+.lkt-icn-very-sad-cry-face:before { content: '\ea00'; } /* '' */
+.lkt-icn-very-sad-face:before { content: '\ea01'; } /* '' */
+.lkt-icn-wink-face:before { content: '\ea02'; } /* '' */
+.lkt-icn-wink-with-tongue-out-face:before { content: '\ea03'; } /* '' */
+.lkt-icn-kettlebell:before { content: '\ea04'; } /* '' */
+.lkt-icn-run:before { content: '\ea05'; } /* '' */
+.lkt-icn-swimming:before { content: '\ea06'; } /* '' */
+.lkt-icn-walk:before { content: '\ea07'; } /* '' */
+.lkt-icn-weights:before { content: '\ea08'; } /* '' */
+.lkt-icn-biceps:before { content: '\ea09'; } /* '' */
+.lkt-icn-brain:before { content: '\ea0a'; } /* '' */
+.lkt-icn-brain-upside:before { content: '\ea0b'; } /* '' */
+.lkt-icn-brain-upside-square:before { content: '\ea0c'; } /* '' */
+.lkt-icn-heart:before { content: '\ea0d'; } /* '' */
+.lkt-icn-lungs:before { content: '\ea0e'; } /* '' */
+.lkt-icn-truck:before { content: '\ea0f'; } /* '' */
